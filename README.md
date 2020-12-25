@@ -1,2 +1,2 @@
-# class---36
-Structuring before coding
+# synchronousBallMovement
+Ball moving synchronously
